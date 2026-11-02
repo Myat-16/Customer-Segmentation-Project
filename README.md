@@ -83,3 +83,6 @@ Implement country-specific strategies to maximize market opportunities.
 Conclusion
 
 Customer segmentation and Pareto analysis reveal that business growth can be achieved by prioritizing high-value customer retention while nurturing growth-potential segments. By aligning marketing, sales, and operational strategies with customer behavior, the company can improve revenue generation, marketing efficiency, and long-term business sustainability.
+
+<img width="1452" height="811" alt="Screenshot 2026-11-02 222630" src="https://github.com/user-attachments/assets/09caa255-4a12-466f-805c-1a8ed4677152" />
+
